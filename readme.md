@@ -4,3 +4,4 @@
 3. Local
 
 ## Bugfixes
+1. Staging
