@@ -1,5 +1,5 @@
 ## Enahancment 
-1. staging.
+1. Staging.
 2. Production
 
 ## Bugfixes
